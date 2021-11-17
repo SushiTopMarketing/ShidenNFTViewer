@@ -1,0 +1,7 @@
+
+deploy
+https://shiden.subscan.io/tx/0x626fd37a75f1e27b0c3fa2d498e983acc5a09229986b2fc16eb615f41aa4765f
+
+mint
+https://shiden.subscan.io/tx/0xefc323a102a541e48715591a8ef4d019e3216b5b83b57e9621afc878cfbcc349
+
